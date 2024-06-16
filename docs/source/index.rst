@@ -13,6 +13,25 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
+---
+title: Stock Ownership
+---
+
+## Stock Ownership
+
+ose stock locations and items.
+The stock ownership feature is disabled by default, and must be enabled via the settings menu:
+
+!!! warning "Existing Stock Locations and Items"
+        Enabling the ownership feature will automatically remove the edit permissions to all users for stock locations and items which **do not have** any owner set. Only a user with admin permissions will be able to set the owner for those locations and items.
+
+### Owner: Group vs User
+
+* If a group is selected as owner, **all** users linked to the specified group will be able to edit the stock location or item.
+* If a user is selected as owner, only the specified user will be able to edit the stock location or item.
+
+
+
 Contents
 --------
 
