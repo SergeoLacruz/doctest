@@ -39,3 +39,4 @@ Contents
 
    usage
    api
+   qay
