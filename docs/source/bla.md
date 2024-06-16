@@ -4,7 +4,7 @@ title: Stock Ownership
 
 ## Stock Ownership
 
-InvenTree supports stock ownership, which allows to set groups and users as "owners" of stock <span class='fas fa-users'></span> locations and items. The owners would be the only users who can edit and manage those stock locations and items. 
+InvenTree supports stock ownership, which allows to set groups and users as "owners" of stock <span class='fas fa-users'></span> locations and items. The owners would be the only users who can edit and manage those stock locations and items. <span class='fas fa-cloud'></span> eeeee
 
 The stock ownership feature is disabled by default, and must be enabled via the settings menu:
 
